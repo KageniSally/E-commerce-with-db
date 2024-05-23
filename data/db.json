@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "ca7a",
+      "username": "SallyG",
+      "email": "gitongasally4@gmail.com",
+      "role": "admin",
+      "password": "QWERTY10"
+    },
+    {
+      "id": "92d2",
+      "username": "Kageni123",
+      "email": "gitongasally4@gmail.com",
+      "role": "customer",
+      "password": "QWERTY10"
+    },
+    {
+      "id": "96b6",
+      "username": "Sally09876",
+      "email": "gitongasally4@gmail.com",
+      "role": "customer",
+      "password": "12345678"
+    },
+    {
+      "id": "4180",
+      "username": "Mulandi254",
+      "email": "eddymulili@gmail.com",
+      "role": "customer",
+      "password": "Blackexcellence10"
+    },
+    {
+      "id": "095d",
+      "username": "EdithNjue",
+      "email": "edithnjue85@gmail.com",
+      "role": "customer",
+      "password": "Qwerty254"
+    }
+  ],
+  "products": [
+    {
+      "id": "f35d",
+      "title": "Lipstick",
+      "price": "1,900",
+      "quantity": "89",
+      "image": "https://i.pinimg.com/236x/54/51/f1/5451f124c100bfa9710b6198bb62c0c5.jpg"
+    },
+    {
+      "id": "8953",
+      "title": "Lipsick",
+      "price": "2,500",
+      "quantity": "70",
+      "image": "https://images.unsplash.com/photo-1613255348289-1407e4f2f980?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fG1ha2UlMjB1cCUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "5a10",
+      "title": "Concealer",
+      "price": "2,000",
+      "quantity": "100",
+      "image": "https://images.unsplash.com/photo-1656523201068-8ed449fb1434?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWF5YmVsbGluZSUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "b63c",
+      "title": "Eye Liner",
+      "price": "2,000",
+      "quantity": "100",
+      "image": "https://images.unsplash.com/photo-1617220821916-928b62acc8ad?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fG1ha2UlMjB1cCUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "1306",
+      "title": "Brushes",
+      "price": "2,500",
+      "quantity": "900",
+      "image": "https://images.unsplash.com/photo-1617220376311-1b90accbb9e8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fG1ha2UlMjB1cCUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "82e9",
+      "title": "Eye Shadow",
+      "price": "4,500",
+      "quantity": "100",
+      "image": "https://images.unsplash.com/photo-1610545936090-103156571fcb?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODZ8fG1ha2UlMjB1cCUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "31f4",
+      "title": "Eye Liner",
+      "price": "2,000",
+      "quantity": "89",
+      "image": "https://images.unsplash.com/photo-1617220381440-4120582b6408?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fG1ha2UlMjB1cCUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "3655",
+      "title": "Eye Liner",
+      "price": "1,900",
+      "quantity": "150",
+      "image": "https://images.unsplash.com/photo-1617220822996-83b261d07eec?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fG1ha2UlMjB1cCUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "8f32",
+      "title": "Contour",
+      "price": "3,000",
+      "quantity": "90",
+      "image": "https://plus.unsplash.com/premium_photo-1677526496590-4baf2d68225b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFrZSUyMHVwfGVufDB8fDB8fHww"
+    }
+  ],
+  "cart": [
+    {
+      "id": "5a10",
+      "title": "Concealer",
+      "price": "2,000",
+      "quantity": 4,
+      "quantityInStock": "100",
+      "image": "https://images.unsplash.com/photo-1656523201068-8ed449fb1434?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWF5YmVsbGluZSUyMGNvbmNlYWxlcnxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
+}
